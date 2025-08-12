@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gonçalo</h1>
 <h3 align="center">Software engineer student at 42 Porto</h3>
 
+- 🚀 Learning Python through 100 Days of Code: The Complete Python Pro Bootcamp (Udemy) | Building projects daily
+
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GCodec89](https://github.com/GCodec89)
