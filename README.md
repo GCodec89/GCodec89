@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **g.o.s.codeco@gmail.com**
 
-- ⚡ Fun fact **2147483647, also known as max int, was the highest prime number known until 1867!**
+- ⚡ Fun fact: **2147483647, also known as max int, was the highest prime number known until 1867!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
